@@ -1,3 +1,9 @@
 [submodule "Wi-Fi-Pentesting-Cheatsheet"]
 	path = Wi-Fi-Pentesting-Cheatsheet
 	url = https://github.com/dh0ck/Wi-Fi-Pentesting-Cheatsheet.git
+[submodule "WirelessPentesting-CheatSheet"]
+	path = WirelessPentesting-CheatSheet
+	url = https://github.com/V0lk3n/WirelessPentesting-CheatSheet
+[submodule "OSWP"]
+	path = OSWP
+	url = https://github.com/brcyrr/OSWP.git
